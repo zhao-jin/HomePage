@@ -1,19 +1,19 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
+		"title": "ZhaoJin",
+		"description": "Author:ZhaoJin,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
+		"title": "ZhaoJin HomePage",
+		"subtitle": "A Geek, Never stop EXPLORING",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
-		"signature": "Code & Input & Output",
+		"name": "ZhaoJin",
+		"signature": "Stay Hungry, Stay Foolish",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -21,22 +21,22 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://mileszhao.com:44300/joomla",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "about.html",
 				"icon": "xiaolian",
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:hi@simonaking.com",
+				"href": "mailto:zhaochief@gmail.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/SimonAKing",
+				"href": "https://github.com/zhao-jin",
 				"icon": "github",
 				"text": "Github"
 			}
